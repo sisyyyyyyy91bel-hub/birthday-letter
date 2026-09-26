@@ -72,7 +72,7 @@ function TheBirthdayLetter() {
                     </div>
                 </div>
             )}
-        </div>
+)}
     );
 }
 
