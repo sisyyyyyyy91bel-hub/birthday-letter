@@ -19,10 +19,15 @@ function TheBirthdayLetter() {
                 <div className="letter">
                  
                 
-          Happy Birthday, my love. Being with you is truly one of the best things that has ever happened to me. Please take care of yourself—we still need to catch up and celebrate your birthday together in person.
-                  
-   
-                         hope Allah bless you and let happiness comes to
+          Happy Birthday, my love. 
+                    Being with you is truly 
+                    one of the best things that 
+                    has ever happened to me. Please take 
+                    care of yourself—we still need to catch up and celebrate
+                    your birthday together in person.
+               
+
+                    hope Allah bless you and let happiness comes to
                         you in every single seconds.
                     </p>
                     <p style={{ textAlign: "right" }}>with love,</p>
